@@ -1,4 +1,4 @@
-# Introduction to Javascript
+# Introduction to JavaScript
 
 This project was created to reiforce the learnings I got with the Alura course named **JavaScript: Programando na línguagem da web**
 
